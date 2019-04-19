@@ -58,3 +58,6 @@ https://github.com/mrw00kie/BaseBuildingPlusWiki/wiki
 Server name:  
 ConquerDayZ-BaseBuildingPlus-PublicTesting  
 95.216.96.153:2302  
+
+## The BaseBuildingPlus Discord
+https://discord.gg/HEmV88c
