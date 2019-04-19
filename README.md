@@ -1,6 +1,6 @@
 # BaseBuildingPlus BETA
 
-## BaseBuildingPlus aims to bring some fun new base building elements to DayZ.
+### BaseBuildingPlus aims to bring some fun new base building elements to DayZ.
 
 This is a BETA release for those of you who just can't wait any longer! Expect bugs, bugs, oh and bugs and please be patient while we try to fix all the issues the we assume might arise... 
 
