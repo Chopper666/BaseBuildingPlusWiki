@@ -13,6 +13,40 @@
     |  /                            /.
     \_/dc__________________________/.
     
+
+    Update: 25. Apr. 20:23 Uhr
+      Fixed Watchtower crash!  
+      
+    Update: 22. Apr. 22:38 Uhr
+      Bugfixes.   
+      
+    Update: 22. Apr. 18:12 Uhr
+      Implemented Humanity System.
+      RPC Framework is now a dependency. This will give us the ability to add lots of cool features and should also fix possible crashes.
+      Started to implement a server config (WIP).
+      Fixed DayzPlus compatibility.
+      Updated concrete wall textures to differentiate front and back.
+      Fixed concrete wall not dismantling from inside.
+      Updated wood wall and metal wall textures.
+      Added garage texture.
+      Updated a few items in types.xml to fix some items not spawning correctly - Server owners please update types.xml.        
+      
+    Update: 20. Apr. 05:25 Uhr
+      Fixed walls being destroyed by bullets
+      Fixed wall upgrades
+      Fixed cement not spawning - Update BBP_Cement in types.xml  
+      
+    Update: 20. Apr. 05:18 Uhr
+      Fixed walls being destroyed by bullets
+      Fixed wall upgrades
+      Fixed cement not spawning - Update BBP_Cement in types.xml      
+      
+    Update: 19. Apr. 19:18 Uhr
+      Updated ZombieBase.c
+      
+    Update: 19. Apr. 17:48 Uhr
+      Added humanity system. Still in testing phase. More info coming soon.
+      
     Update: 16. Apr. 23:12 Uhr
       Added concrete slot to the workbench.
     
