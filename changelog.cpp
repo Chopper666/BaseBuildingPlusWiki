@@ -14,6 +14,16 @@
     \_/dc__________________________/.
     
 
+   Update: 28 Apr @ 11:12pm
+      Fixed humanity saving issue on some server providers.
+      Fixed roof placements.
+      The doors now correctly destroy with their correct tools.
+      Fixed the inside and outside destruction times.
+      
+   Update: 26 Apr @ 10:29pm
+      Removed the vault because it was causing some issues. We hope to add an improved version soon.
+      Small bugfixes.
+      
     Update: 25. Apr. 20:23 Uhr
       Fixed Watchtower crash!  
       
